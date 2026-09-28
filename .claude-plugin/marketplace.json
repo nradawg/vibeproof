@@ -1,0 +1,14 @@
+{
+  "name": "vibeproof",
+  "description": "A website skill that keeps your site from looking vibe coded",
+  "owner": {
+    "name": "Nick Raddon"
+  },
+  "plugins": [
+    {
+      "name": "vibeproof",
+      "source": "./",
+      "description": "Grills you on your goal, colors, and references, then builds and checks your website against 59 items so it doesn't look vibe coded."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vibeproof",
+  "description": "Builds or fixes your website so it doesn't look vibe coded. Grills you on your goal, colors, and references, then checks 59 things before launch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nick Raddon",
+    "url": "https://raddonai.com"
+  },
+  "homepage": "https://github.com/nradawg/vibeproof",
+  "repository": "https://github.com/nradawg/vibeproof",
+  "license": "MIT",
+  "keywords": ["website", "web design", "landing page", "colors", "accessibility", "seo", "checklist"]
+}
